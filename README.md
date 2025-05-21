@@ -1,6 +1,4 @@
-# Shield Crypto Finance Wallet Token List
-
-Token list for the Shield Crypto Finance Wallet UI.
+# Token list for the Shield Crypto Finance Wallet UI.
 
 ## Overview  
 This repository contains the official token list (JSON metadata and logos) for the Shield Crypto Finance Wallet UI across multiple blockchains.
